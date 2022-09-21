@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{
+    background: linear-gradient(236.85deg, #041832, #703d6f 96.03%);
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    background: #ECF4FF;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px #36173d;
+    color: #1C1C1C;
+    margin: 64px;
+    padding: 64px;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+}
+
+.perfil{
+    display: flex;
+}
+
+.img-perfil{
+    border-radius: 460px;
+    box-shadow: 0px 4px 4px #36173d;
+    max-height: 160px;
+}
+
+.titulo{
+    margin-left: 16px;
+}
+
+.titulo h1{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.titulo h3{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.titulo i{
+  color: #1C1C1C;
+  cursor: pointer;
+  font-size: 32px;
+  padding-right: 20px;
+}
+
+.titulo #linkedin:hover{
+  color: #991766;
+}
+
+.titulo #github:hover{
+  color: #991766;
+}
+
+.titulo #instagram:hover{
+  color: #991766;
+}
+
+.tema button{
+    align-self: flex-end;
+    font-size: 16px;
+    padding: 8px 16px;
+    background: transparent;
+    box-sizing: border-box;
+    border-radius: 100px;
+    border: 2px solid #703d6f;
+    cursor: pointer;
+}
+
+.portfolio{
+    margin-top: 64px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 16px;
+}
+
+.projetos{
+    display: flex;
+    flex-direction: column;
+    max-height: 700px;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    padding: 8px 32px;
+    background: linear-gradient(230.65deg, #991766 27.49%, #4f364c 83.19%);
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #703d6f;
+}
+
+.conquistas {
+    max-height: 400px;
+    overflow-y: scroll;
+        scrollbar-width: thin;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8px 32px;
+    background: linear-gradient(230.65deg, #991766 27.49%, #4f364c 83.19%);
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .projetos ul {
+    list-style: none;
+    padding-left: 0;
+    font-weight: 700;
+    font-size: 24px;
+    color: #ECF4FF;
+  }
+  
+  .projetos li {
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 2em;
+  }
+  
+  .conquistas ul {
+    list-style: none;
+    padding-left: 0;
+    font-weight: 700;
+    font-size: 24px;
+    color: #ECF4FF;
+  }
+  
+  .conquistas li {
+    list-style-type: none;
+  }
+  
+  .conquistas img {
+    max-height: 100px
+  }
+  
+  .dark {
+    background: linear-gradient(236.85deg, #375B86 27.26%, #6B87A9 96.03%);
+  }
+    
+  .dark .container {
+    background: #333439;
+    color: #F6F6F6;
+  }
+  
+  .dark .portfolio {
+    color: #1C1C1C;
+  }
+  
+  .dark .tema button {
+    color: #FFFFFF;
+    background: #1C1C1C;
+    box-sizing: border-box;
+    border-radius: 100px;
+    border: 2px solid #F7F7F7;
+  }
+  
+  ::-webkit-scrollbar{
+  width: 5px;
+  height: 5px;
+  }
+  
+  ::-webkit-scrollbar-thumb{
+  background: #1C1C1C;
+  border: 1.8px solid #1C1C1C;
+  border-radius: 100px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover{
+  background: #ECF4FF;
+  }
+  
+  ::-webkit-scrollbar-track{
+  background: #ECF4FF;
+  border-radius: 100px;
+  box-shadow: inset 0px 0px 0px 0px #F0F0F0;
+  margin: 15px 0px;
+  }
+
+  .redesSociais{
+    height: 400px;
+    overflow-y: scroll;
+        scrollbar-width: thin;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8px 32px;
+    background: linear-gradient(230.65deg, #991766 27.49%, #4f364c 83.19%);
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  }  
+  

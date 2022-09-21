@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../Aula 2/css/style.css">
+    <title>Aula 2 | Conversor de Moeda</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="page-title">
+          Conversor de moedas
+        </h1>
+        <p class="page-subtitle">
+          Descubra os valores
+        </p>
+        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg" class="page-logo" alt=""><br><br>
+        <label for="moeda">Insira o valor em real</label><br>
+        <label for="moeda">R$ </label><input type="number" id="valor" size="2" /><br>
+
+        <fieldset><legend>Escolha a moeda de conversão</legend>
+        
+            <input type="radio" id="dolar" name="valor" value="dolar" checked>
+            <label for="dolar">Dólar</label><br>
+    
+            <input type="radio" id="libra" name="valor" value="libra">
+            <label for="libra">Libra</label><br>
+
+            <input type="radio" id="bitcoins" name="valor" value="bitcoins">
+            <label for="bitcoins">Bitcoins</label>
+          
+        </fieldset>
+
+        <button type="submit" onclick="Converter()">Converter</button>
+        <h2 id="valorConvertido"></h2>
+      </div>
+      <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+
+    <script src="../Aula 2/js/body.js"></script>
+    </body>
+</html>
