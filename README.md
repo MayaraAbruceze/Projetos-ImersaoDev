@@ -1,4 +1,4 @@
-# Projetos-ImersaoDev 👩‍💻
+<h1 align="center"> Projetos-ImersaoDev 👩🏾‍💻 </h1>
 
 Uma semana intensa de estudos com foco em Javascript.
 
@@ -14,19 +14,17 @@ Resumo das aulas:
 * Aula 9 - Figma, HTML e CSS
 * Aula 10 - Finalização do certificard
 
-## Ferramentas utilizadas 🤖
+<h2 align="center"> Ferramentas utilizadas 🤖 <h2>
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />       
+</div>
           
-          
- </div>
-          
-## Demonstração 💡
+<h2 align="center"> Demonstração 💡</h2>
 ![certificard](https://user-images.githubusercontent.com/108831538/191622350-ef4c8280-017a-42d0-a22c-5317f7d9ffdd.png)<br>
 ![calculadoramedia](https://user-images.githubusercontent.com/108831538/191626212-6cb98d9e-e7f8-4c87-8b80-c4d6e78e4f85.jpg)<br>
 ![conversormoeda](https://user-images.githubusercontent.com/108831538/191626295-4614d600-17be-4c4e-9fb7-13d9b4ba8387.jpg)<br>
