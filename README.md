@@ -25,9 +25,9 @@ Resumo das aulas:
 </div>
           
 <h2 align="center"> Demonstração 💡</h2>
-![certificard](https://user-images.githubusercontent.com/108831538/191622350-ef4c8280-017a-42d0-a22c-5317f7d9ffdd.png)<br>
-![calculadoramedia](https://user-images.githubusercontent.com/108831538/191626212-6cb98d9e-e7f8-4c87-8b80-c4d6e78e4f85.jpg)<br>
-![conversormoeda](https://user-images.githubusercontent.com/108831538/191626295-4614d600-17be-4c4e-9fb7-13d9b4ba8387.jpg)<br>
-![jogocartas](https://user-images.githubusercontent.com/108831538/191626322-f49707a0-bc46-4c8e-a553-a84e655a557a.jpg)<br>
-![mentalista](https://user-images.githubusercontent.com/108831538/191626345-1d66618e-496a-42dc-87c4-050dd3da9e51.jpg)<br>
-![supertrunfo](https://user-images.githubusercontent.com/108831538/191626368-81d469af-2776-48bd-b77f-de7e9d35b50a.png)
+<img src="https://user-images.githubusercontent.com/108831538/191872808-91ae8ea6-974a-420a-9b74-0ef7a631d283.jpg"><br>
+<img src="https://user-images.githubusercontent.com/108831538/191873174-b255b8ee-3fcd-4127-93c1-f85fdd7b6935.jpg"><br>
+<img src="https://user-images.githubusercontent.com/108831538/191873279-28819151-deeb-42ce-b4bc-9a71e0eb4502.jpg"><br>
+<img src="https://user-images.githubusercontent.com/108831538/191873285-d19cf7f4-b280-4b30-9f61-e035e354009c.jpg"><br>
+<img src="https://user-images.githubusercontent.com/108831538/191873286-ee50436d-3e28-4619-8631-e43a6c2bcc25.png"><br>
+<img src="https://user-images.githubusercontent.com/108831538/191873612-69dc0de0-322f-4fe0-95be-093cae584a9b.png">
